@@ -13,4 +13,6 @@ package PaqueteDavidJimenez;
 public class ClaseDavidJimenez {
     
     String prueba = "Hola mundo";
+    String prueba2 = "Adios mundo";
+    String prueba3 = "Hasta luego mundo";
 }
