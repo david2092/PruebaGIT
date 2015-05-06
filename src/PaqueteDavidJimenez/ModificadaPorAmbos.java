@@ -16,4 +16,8 @@ public class ModificadaPorAmbos {
     public void escribir(){
         System.out.println("Hola mundo");
     }
+    public void sumar2(int numero)
+    {
+        int suma = numero + 2;
+    }
 }
